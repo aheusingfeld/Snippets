@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\shell\Open_in_Cmd]
+@="Open in &Cmd"
+
+[HKEY_CLASSES_ROOT\Directory\shell\Open_in_Cmd\command]
+@="cmd /K cd %L"
