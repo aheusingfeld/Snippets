@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        T-Mobile DDTS: Bring a little more clear arrangement to DDTS "single bug view"
+// @name        T-Mobile DDTS: Style DDTS Tickets more user friendly
 // @namespace   https://ddts.devlab.de.tmo/wt/tmp/dump
 // @include     https://ddts.devlab.de.tmo/wt/tmp/dump_*
 // @include     https://ddts.devlab.de.tmo/ddts/ddts_main?bug_id*
