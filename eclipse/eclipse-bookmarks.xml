@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookmarks>
+   <site url="http://andrei.gmxhome.de/eclipse/" selected="true" name="Andrei Loskutov Eclipse Plugins"/>
+   <site url="http://eclipse-cs.sourceforge.net/update/" selected="true" name="Checkstyle for Eclipse"/>
+   <site url="http://update.eclemma.org/" selected="true" name="ECLemma Code Coverage"/>
+   <site url="http://download.eclipse.org/egit/updates-nightly/" selected="true" name="EGit Nightly Builds"/>
+   <site url="http://download.eclipse.org/technology/mat/latest/update-site/" selected="true" name="file:Memory Analyzer Update Site"/>
+   <site url="http://findbugs.cs.umd.edu/eclipse/" selected="true" name="FindBugs Update Site"/>
+   <site url="http://download.eclipse.org/releases/helios" selected="true" name="Helios Milestone Repository"/>
+   <site url="http://java.decompiler.free.fr/jd-eclipse/update" selected="true" name="Java Decompilers Update Site"/>
+   <site url="http://m2eclipse.sonatype.org/sites/m2e-extras" selected="true" name="M2Eclipse Exctras"/>
+   <site url="http://m2eclipse.sonatype.org/sites/m2e" selected="true" name="Maven Integration for Eclipse Update Site"/>
+   <site url="http://moreunit.sourceforge.net/org.moreunit.updatesite/" selected="true" name="MoreUnit Update Site"/>
+   <site url="http://download.eclipse.org/tools/mylyn/update/extras" selected="true" name="Mylyn Extras"/>
+   <site url="http://pmd.sourceforge.net/eclipse/" selected="true" name="PMD Eclipse Update site"/>
+   <site url="http://dist.springsource.com/release/TOOLS/update/e3.6" selected="true" name="SpringSource Update Site for Eclipse 3.6"/>
+   <site url="http://dist.springsource.com/milestone/TOOLS/update/e3.6" selected="false" name="SpringSource Update Site for Eclipse 3.6 (Milestone)"/>
+   <site url="http://dist.springsource.com/milestone/TOOLS/composite/e3.6" selected="false" name="SpringSource Update Site for Eclipse 3.6 (Milestone, Dependencies)"/>
+   <site url="http://subclipse.tigris.org/update_1.6.x" selected="false" name="Subclipse 1.6.x Update Site"/>
+   <site url="http://download.eclipse.org/technology/subversive/0.7/update-site/" selected="false" name="Subversive"/>
+   <site url="http://community.polarion.com/projects/subversive/download/eclipse/2.0/update-site/" selected="false" name="Subversive SVN Connectors Site"/>
+   <site url="http://download.eclipse.org/technology/swtbot/galileo/dev-build/update-site" selected="false" name="SWTBot Update Site"/>
+   <site url="http://download.eclipse.org/technology/dash/update" selected="false" name="update site: http://download.eclipse.org/technology/dash/update"/>
+   <site url="http://jadclipse.sf.net/update" selected="false" name="update site: http://jadclipse.sf.net/update"/>
+</bookmarks>
