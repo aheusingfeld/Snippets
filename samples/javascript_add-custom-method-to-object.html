@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Javascript Sample - Add custom method to Array</title>
+	<meta name="description" content="This is a simple javascript test to add a method to an existing Object">
+	<meta name="keywords" content="javascript,json,object orientation">
+	<meta name="author" content="Alex">
+</head>
+<body>
+<script type="text/javascript">
+Array.prototype.printAll = function(entry) 
+{ 
+	return this[entry].name + ' - (EvenType? ' + (this[entry].type % 2 == 0) + ')'
+};
+
+// sample data; could also be returned from a Service
+var data = new Array(
+{
+'name' : 'paul',
+'type' : 2,
+'status' : 0
+},
+{
+'name' : 'tina',
+'type' : 1,
+'status' : 1
+}
+);
+
+document.writeln(data.printAll(0));
+document.writeln(data.printAll(1));
+</script>
+<p>
+See here for more <a href="http://www.java2s.com/Tutorial/JavaScript/0500__Object-Oriented/AddmethodtoArrayobject.htm">http://www.java2s.com/Tutorial/JavaScript/0500__Object-Oriented/AddmethodtoArrayobject.htm</a>
+</p>
+</body>
+</html>
