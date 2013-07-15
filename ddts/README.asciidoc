@@ -1,0 +1,9 @@
+== Greasemonky for DDTS
+To support the Q&A phase workflow I created some http://www.greasespot.net/[Greasemonkey] scripts for the https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/[Greasemonkey Firefox Addon] which shall fit the following requirements:
+
+* Beautify the current HTML3.2 DDTS layout to make it more usable
+* Make it a one-click-shop to transfer all relevant information from DDTS to JIRA
+* Restructure elements in JIRA to provide better overview and usability -> speed up DDTS actions
+
++t-mobile_ddts_style_ddts.user.js+ is currently written to work for the TVPP projects. It will parse the HTML3.2 DOM and extract all relevant variables which are then mapped onto JIRA field parameters.
+
