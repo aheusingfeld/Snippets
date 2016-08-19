@@ -33,6 +33,8 @@
 	<string>iterm-folder</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
 	<key>CFBundleSignature</key>
 	<string>dplt</string>
 	<key>LSMinimumSystemVersionByArchitecture</key>
@@ -44,17 +46,21 @@
 	<true/>
 	<key>WindowState</key>
 	<dict>
+		<key>bundleDividerCollapsed</key>
+		<true/>
+		<key>bundlePositionOfDivider</key>
+		<real>0.0</real>
 		<key>dividerCollapsed</key>
 		<false/>
 		<key>eventLogLevel</key>
-		<integer>-1</integer>
+		<integer>2</integer>
 		<key>name</key>
 		<string>ScriptWindowState</string>
 		<key>positionOfDivider</key>
 		<real>333</real>
 		<key>savedFrame</key>
-		<string>596 444 602 597 0 0 1920 1178 </string>
-		<key>selectedTabView</key>
+		<string>905 437 602 620 0 0 1920 1177 </string>
+		<key>selectedTab</key>
 		<string>result</string>
 	</dict>
 </dict>
